@@ -1,0 +1,3 @@
+Accuracy = 1.6853932584269662%
+Accuracy = 36.51685393258427% (most common)
+Accuracy = 69.66292134831461%	
