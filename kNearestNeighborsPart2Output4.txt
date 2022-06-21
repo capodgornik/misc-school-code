@@ -1,0 +1,10 @@
+Accuracy of 1-Nearest Neighbor Algorithm: 98.0%
+Accuracy of 2-Nearest Neighbor Algorithm: 96.0%
+Accuracy of 3-Nearest Neighbor Algorithm: 96.04%
+Accuracy of 4-Nearest Neighbor Algorithm: 94.26%
+Accuracy of 5-Nearest Neighbor Algorithm: 93.94%
+Accuracy of 6-Nearest Neighbor Algorithm: 93.72%
+Accuracy of 7-Nearest Neighbor Algorithm: 94.84%
+Accuracy of 8-Nearest Neighbor Algorithm: 94.54%
+Accuracy of 9-Nearest Neighbor Algorithm: 93.86%
+Accuracy of 10-Nearest Neighbor Algorithm: 93.52%
