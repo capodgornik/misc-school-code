@@ -1,0 +1,4 @@
+(For k = 1):
+    Accuracy of 1-Nearest Neighbor Algorithm: 98.0%
+(For k = 2):
+    Accuracy of 2-Nearest Neighbor Algorithm: 97.9%
