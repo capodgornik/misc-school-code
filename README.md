@@ -1,2 +1,2 @@
 # misc-school-code
-Miscellaneous code from school.
+Miscellaneous code from school (Math 496t).
