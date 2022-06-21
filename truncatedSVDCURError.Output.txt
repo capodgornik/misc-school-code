@@ -1,0 +1,22 @@
+Truncated SVD Error:
+7308.166352433461
+Part E.1 Error:
+4445.067226331475
+Part E.2 Error:
+1241.6220134303271
+Part F.1, number of rows = 4:
+448.03880101324614
+Part F.2, number of rows = 4:
+448.03880101324614
+Part F.1, number of rows = 8:
+107.93279542308281
+Part F.2, number of rows = 8:
+107.93279542308281
+Part F.1, number of rows = 16:
+28.603598680265772
+Part F.2, number of rows = 16:
+28.60359868026577
+Part F.1, number of rows = 24:
+1.3590850361510616
+Part F.2, number of rows = 24:
+1.3590850348474455
